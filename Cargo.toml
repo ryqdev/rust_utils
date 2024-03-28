@@ -1,8 +1,10 @@
 [package]
-name = "rust_utils"
+name = "rust-kit"
 version = "0.1.0"
 edition = "2021"
-
-# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+description = "Rust tool kit"
+license = "GPL-3.0"
+repository = "https://github.com/ryqdev/rust_utils"
+authors = ["ryqdev"]
 
 [dependencies]
